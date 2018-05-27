@@ -4,7 +4,7 @@
 
 * blog post url -> https://fsocietylk.wordpress.com/2017/05/15/facebook-app-with-oauth-2-0/
 
-## instructions for locally setting up the website
+## Instructions for locally setting up the website
 
 ### Prerequisites
 * web server installed in local computer(apache, tomcat or iis etc.)
