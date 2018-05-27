@@ -1,17 +1,17 @@
 # CSRF-Protection-Double-Submit-Cookies
 
-#FSOCIETY
+# FSOCIETY
 
 * blog post url -> https://fsocietylk.wordpress.com/2017/05/15/facebook-app-with-oauth-2-0/
 
 ## instructions for locally setting up the website
 
-### prerequisites
+### Prerequisites
 * web server installed in local computer(apache, tomcat or iis etc.)
 
 * if not download apache web server at http://directory.apache.org/studio/download/download-windows.html
 
-### windows
+### Windows
 ```
 1.go to the web server directory
 for apache c:/program files/apache/htdocs (if it is the wamp server this would be c:/wamp/www)
@@ -22,7 +22,7 @@ for apache c:/program files/apache/htdocs (if it is the wamp server this would b
 4.start the web browser and type http://localhost/fbapp/callback.php
 ```
 
-### linux environment
+### Linux environment
 ```
 1.go to /var/www/html directory
 2.place fb directory inside html direcotry
